@@ -1,0 +1,14 @@
+Package: org.thebigboss.kingofthehillsoundboard
+Name: King Of The Hill SoundBoard
+Version: 1.0
+Architecture: iphoneos-arm
+Description: TV Show soundboard with many sounds
+Maintainer: thedoofmodern
+Author: BigBoss
+Section: Soundboards
+Depends: firmware(>= 4.0)
+Filename: debs/kingofthehillsoundboard_1.0.deb
+Size: 1113604
+MD5sum: f7e05b1a736bea4f40f8a2c36d6d1947
+SHA1: 405b7b68f0f0e39c52c27b4ec98e79842f67573d
+SHA256: eb2bf78fc24b28725f2cd69d7b53b1d4c7533ad56acbf42e512672212ece7c92
