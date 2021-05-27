@@ -5,7 +5,7 @@ Architecture: iphoneos-arm
 Description: TV Show soundboard with many sounds
 Maintainer: thedoofmodern
 Author: BigBoss
-Section: Soundboards
+Section: Apps
 Depends: firmware(>= 4.0)
 Filename: debs/kingofthehillsoundboard_1.0.deb
 Size: 1113604
